@@ -1,0 +1,7 @@
+llama-index==0.14.15
+llama-hub
+llama-index-embeddings-huggingface==0.6.1
+numexpr
+llama-index-llms-huggingface-api==0.6.2
+transformers
+accelerate
